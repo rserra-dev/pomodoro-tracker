@@ -2,5 +2,7 @@ body {
     display: grid;
     text-align: center;
     padding: auto;
-    margin: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
 }
